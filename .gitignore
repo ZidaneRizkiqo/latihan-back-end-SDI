@@ -1,0 +1,5 @@
+contributors/
+node_modules/
+test.*
+*.old
+*-lock.json

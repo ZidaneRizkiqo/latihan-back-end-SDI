@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "net": "^1.0.2",
+    "through2-map": "^4.0.0"
+  },
+  "name": "latihan-back-end-sdi",
+  "version": "1.0.0",
+  "main": "baby-steps.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
